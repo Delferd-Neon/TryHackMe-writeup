@@ -49,6 +49,4 @@ You won't get your flag by HTTPS, go for HTTP then you get your flag.
 <img width="892" height="52" alt="image" src="https://github.com/user-attachments/assets/1c9beda4-2f14-452b-914b-ea1a2436419d" />
 
 
-</br>
 ### Thank you !
-
