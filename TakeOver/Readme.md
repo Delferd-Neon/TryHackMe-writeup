@@ -1,12 +1,4 @@
 # Takeover - (Enumerate to spawn_)
-<!--
-Source - https://stackoverflow.com/a/14747656
-Posted by Tieme, modified by community. See post 'Timeline' for change history
-Retrieved 2026-04-21, License - CC BY-SA 4.0
--->
-
-<img src="https://github.com/Delferd-Neon/TryHackMe-writeup/blob/main/TakeOver/Images/takeoverr.png" alt="drawing" style="width:200px;"/>
-<div align="center">
   <img src="https://github.com/Delferd-Neon/TryHackMe-writeup/blob/main/TakeOver/Images/takeoverr.png" alt="drawing" style="width:200px;"/>
 </div>
 
