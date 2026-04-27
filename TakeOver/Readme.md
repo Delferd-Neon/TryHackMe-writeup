@@ -1,4 +1,5 @@
 # Takeover - (Enumerate to spawn_)
+<div align="center">
   <img src="https://github.com/Delferd-Neon/TryHackMe-writeup/blob/main/TakeOver/Images/takeoverr.png" alt="drawing" style="width:200px;"/>
 </div>
 
