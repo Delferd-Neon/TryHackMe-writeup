@@ -6,6 +6,9 @@ Retrieved 2026-04-21, License - CC BY-SA 4.0
 -->
 
 <img src="https://github.com/Delferd-Neon/TryHackMe-writeup/blob/main/TakeOver/Images/takeoverr.png" alt="drawing" style="width:200px;"/>
+<div align="center">
+  <img src="https://github.com/Delferd-Neon/TryHackMe-writeup/blob/main/TakeOver/Images/takeoverr.png" alt="drawing" style="width:200px;"/>
+</div>
 
 In this challenge we will revolve around subdomain enumeration to solve this challenge.  
 
